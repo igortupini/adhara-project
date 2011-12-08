@@ -47,7 +47,7 @@ case $1 in
         exec ./${C_SRV}&
         exec ./${M_SRV}&
 
-        echo "Adhara-Project Sendo Executado"
+        echo "Adhara-Project sendo Executado"
 ;;
     'stop')
         ps ax | grep -E "${L_SRV}|${C_SRV}|${M_SRV}" | awk '{print $1}' | xargs kill

@@ -4,6 +4,6 @@ rem Writen by Jbain
 char-server_sql.exe
 echo .
 echo .
-echo Char server crashed! restarting in 15 seconds! press ctl+C to cancel restart!
+echo Char Server Danificado! Reiniciando em 15 segundos! Pressione ctrl+C para cancelar o reiniciamento!
 PING -n 15 127.0.0.1 >nul
 goto end

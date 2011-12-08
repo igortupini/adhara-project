@@ -1,7 +1,6 @@
 #!/bin/bash
-# modified by shazeya@syafi.com (NL130240)
 
-./brathena-start start
+./adhara-start start
 sleep 30
 
 while [ true ]; do
@@ -22,7 +21,7 @@ while [ true ]; do
             date
             printf "Restauração:"
             date
-            ./brathena-start start
+            ./adhara-start start
         else
             printf "Checagem Incompleta:"
             date

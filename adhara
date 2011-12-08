@@ -1,5 +1,4 @@
 #!/bin/bash
-# modified by shazeya@syafi.com (NL130240)
 
 ./adhara-start start
 sleep 30

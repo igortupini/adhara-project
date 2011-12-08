@@ -1,6 +1,7 @@
 #!/bin/bash
-# brAthena - Administração [Painel Linux]
-# Criado por: Protimus & Will - Equipe brAthena.
+# Adhara - Administração [Painel Linux]
+# Criado por: Protimus
+# Modificado por: Anubis
 
 comecar() {
 	if [ ! -d $adhara ] ; then
