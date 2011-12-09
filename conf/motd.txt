@@ -1,0 +1,2 @@
+//O limite de linhas é 128. Caso precise de mais, modifique a linha MOTD_LINE_SIZE em pc.c
+Seja bem-vindo(a) à a revisão do Adhara Git! Aproveite o emulador, em caso de dúvidas ou erros acesse o nosso fórum de suporte. www.adhara-project.com/forum

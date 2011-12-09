@@ -84,7 +84,7 @@
 #define MAX_SLOTS 4
 //Max amount of a single stacked item
 #define MAX_AMOUNT 30000
-#define MAX_ZENY 1000000000
+#define MAX_ZENY 2000000000
 #define MAX_FAME 1000000000
 #define MAX_CART 100
 #define MAX_SKILL 2536
